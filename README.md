@@ -8,6 +8,13 @@ A powerful, automated CLI tool designed to deploy, manage, and tunnel Minecraft 
 
 **Powered by: [Ray Industries](https://notray.fun)**
 
+
+
+## 📝 Requirements
+**OS: Ubuntu / Debian (Recommended)**
+
+**(Note: Requires curl installed. If missing, run sudo apt install curl first)**
+
 ## ✨ Features
 
 * **☕ Auto-Dependency Check:** Automatically installs Java (OpenJDK 21), jq, and other requirements.
