@@ -22,4 +22,4 @@ A powerful, automated CLI tool designed to deploy, manage, and tunnel Minecraft 
 Run the following command in your terminal. This will launch the Minecraft Server Installer immediately without downloading files manually.
 
 ```bash
-bash <(curl -sL [https://github.com/NotRayy01/Minecraft-Server-Install/blob/main/run.sh))
+bash <(curl -sL [https://github.com/NotRayy01/Minecraft-Server-Install/blob/main/run.sh)
